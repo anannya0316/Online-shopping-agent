@@ -41,7 +41,7 @@ export default function App() {
     <div className="app">
       <header className="header">
         <div className="header-badge">AI-Powered</div>
-        <h1 className="title">AutoML Shopping Agent</h1>
+        <h1 className="title">Online Shopping Agent</h1>
         <p className="subtitle">
           Finds the best product across Amazon &amp; the web using autonomous LLM reasoning
         </p>
